@@ -1,0 +1,2 @@
+# PythonIA
+ Previsões com IA
